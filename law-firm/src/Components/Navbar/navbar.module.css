@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px, 32px;
+  height: 74px;
+  width: 100vw;
+  background-color: #111;
+  margin-top: 63px;
+}
+.middle {
+  display: flex;
+  padding-left: 4px;
+  gap: 2.5rem;
+}
+/* h4 {
+    margin: 25px;
+  } */
+img {
+  margin-left: 150px;
+}
+button {
+  margin-right: 160px;
+  width: 140px;
+  height: 40px;
+  /* margin-top: 13px; */
+  background-color: #111;
+  color: white;
+  border: 1px solid white;
+}

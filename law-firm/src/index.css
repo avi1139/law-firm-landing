@@ -1,0 +1,25 @@
+:root {
+  --color-black: #241d1d;
+  --color-white: #fff;
+}
+
+/* ::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0px;
+}
+html,
+body {
+  height: 100%;
+} */
+body {
+  background-color: var(--color-black);
+  font-family: "poppins", sans-serif;
+  color: var(--color-white);
+  overflow-x: hidden;
+}
+* {
+  margin: 0px;
+}

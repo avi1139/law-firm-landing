@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #111111;
+  /* gap: -1rem; */
+}
+.mid {
+  font-family: Inter;
+  font-size: 66px;
+  font-weight: 500;
+  line-height: 97px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 80px;
+  /* margin-left: 250px; */
+  width: 571px;
+  height: 194px;
+}
+.heroimg {
+  /* margin-right: 250px; */
+
+  top: 1.55rem;
+}
